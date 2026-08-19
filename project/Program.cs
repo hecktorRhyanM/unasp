@@ -19,3 +19,7 @@ foreach (var item in all)
 {
     System.Console.WriteLine(item);
 }
+names.clear();
+names2.clear();
+names3.clear();
+names4.clear();
