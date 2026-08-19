@@ -1,0 +1,15 @@
+C:\unasp\unasp\project\bin\Debug\net10.0\project.exe
+C:\unasp\unasp\project\bin\Debug\net10.0\project.deps.json
+C:\unasp\unasp\project\bin\Debug\net10.0\project.runtimeconfig.json
+C:\unasp\unasp\project\bin\Debug\net10.0\project.dll
+C:\unasp\unasp\project\bin\Debug\net10.0\project.pdb
+C:\unasp\unasp\project\obj\Debug\net10.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\unasp\unasp\project\obj\Debug\net10.0\project.AssemblyInfoInputs.cache
+C:\unasp\unasp\project\obj\Debug\net10.0\project.AssemblyInfo.cs
+C:\unasp\unasp\project\obj\Debug\net10.0\project.csproj.CoreCompileInputs.cache
+C:\unasp\unasp\project\obj\Debug\net10.0\project.sourcelink.json
+C:\unasp\unasp\project\obj\Debug\net10.0\project.dll
+C:\unasp\unasp\project\obj\Debug\net10.0\refint\project.dll
+C:\unasp\unasp\project\obj\Debug\net10.0\project.pdb
+C:\unasp\unasp\project\obj\Debug\net10.0\project.genruntimeconfig.cache
+C:\unasp\unasp\project\obj\Debug\net10.0\ref\project.dll
